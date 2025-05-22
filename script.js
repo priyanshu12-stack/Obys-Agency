@@ -28,7 +28,7 @@ tl.to("#loader",{
     delay:4
 });
 
-tl.form("#page1",{
+tl.from("#page1",{
     delay:0.2,
     y:1600,
     opacity:0,
