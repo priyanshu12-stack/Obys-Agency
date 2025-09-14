@@ -4,7 +4,6 @@
 This project is a frontend-only website inspired by modern creative agency portfolios (Obys). It delivers a visually rich, interactive, and fully responsive experience. The site showcases projects, an about section, awards, and dynamic animations to engage users.
 
 🛠️ Tech Stack
-
 HTML5 → Provides the structure of the website (semantic tags: <section>, <nav>, <video>, etc.).
 
 CSS3 → Handles styling, responsive design, typography, layout (Flexbox, Grid, Media Queries).
